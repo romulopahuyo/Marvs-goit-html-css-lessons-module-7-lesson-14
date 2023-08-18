@@ -1,1 +1,1 @@
-# marvs-goit-html-css-lessons-module-7-lesson-14
+# goit-html-css-lessons
